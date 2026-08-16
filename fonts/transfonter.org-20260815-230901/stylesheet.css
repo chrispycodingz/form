@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Modern Prestige DEMO';
+    src: url('ModernPrestigeDEMO.woff2') format('woff2'),
+        url('ModernPrestigeDEMO.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
