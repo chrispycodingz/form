@@ -32,7 +32,7 @@ div .overlay {
     padding: 20px;
     font-family: 'Modern Prestige DEMO';
     position: absolute;
-    color: white;
+    color: antiquewhite;
     background-color: rgba(0, 0, 0, 0.5);
     font-size: 50px;   
 }
